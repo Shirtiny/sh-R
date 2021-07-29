@@ -1,0 +1,9 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "sh-R",
+  "appid": "1111993941",
+  "setting": {
+    "es6": false,
+    "minified": false
+  }
+}
